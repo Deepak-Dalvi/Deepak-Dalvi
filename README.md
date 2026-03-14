@@ -7,8 +7,6 @@ Hi, I'm Deepak 👋
 
 ## 🛠 Skills
 
-## 🛠 Skills
-
 ![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-grey?style=flat&logo=mysql)
 ![Pandas](https://img.shields.io/badge/Pandas-grey?style=flat&logo=pandas)
