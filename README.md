@@ -7,11 +7,15 @@ Hi, I'm Deepak 👋
 
 ## 🛠 Skills
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-purple?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-darkgreen?style=for-the-badge&logo=microsoft-excel)
+## 🛠 Skills
+
+![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-grey?style=flat&logo=mysql)
+![Pandas](https://img.shields.io/badge/Pandas-grey?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-grey?style=flat&logo=numpy)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-grey?style=flat)
+![Excel](https://img.shields.io/badge/Excel-grey?style=flat&logo=microsoft-excel)
+
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepak-dalvi-268857376/)
