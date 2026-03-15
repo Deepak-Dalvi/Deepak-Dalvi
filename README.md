@@ -1,8 +1,8 @@
 Hi, I'm Deepak 👋
 
-🎓 CSE-AIML '26 | University of Mumbai
-🎓 Aspiring Data Analyst / Data Scientist  
-📊 Interested in Data Analysis, Machine Learning and Problem Solving  
+🎓 CSE-AIML '26 | University of Mumbai  
+📊 Aspiring Data Analyst / Data Scientist  
+📈 Interested in Data Analysis, Machine Learning and Problem Solving  
 📍 Mumbai, India | Open to Work
 
 ## 🛠 Skills
